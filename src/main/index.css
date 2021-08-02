@@ -94,3 +94,8 @@
 .product-seller-avatar {
   height: 20px;
 }
+
+.product-link {
+  color: inherit;
+  text-decoration: none;
+}
